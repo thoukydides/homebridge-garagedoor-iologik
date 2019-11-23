@@ -1,0 +1,41 @@
+{
+    "name": "homebridge-garagedoor-iologik",
+    "version": "0.0.1",
+    "description": "Hörmann Supramatic garage door opener plugin for Homebridge",
+    "license": "ISC",
+    "keywords": [
+        "Homebridge",
+        "homebridge-plugin",
+        "Hormann",
+        "Hörmann",
+        "Supramatic",
+        "UAP1",
+        "Moxa",
+        "ioLogik",
+        "E1214",
+        "garage",
+        "door",
+        "garagedoor",
+        "opener"
+    ],
+    "author": {
+        "name": "Alexander Thoukydides",
+        "url": "https://www.thouky.co.uk/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/thoukydides/homebridge-garagedoor-iologik.git"
+    },
+    "bugs": {
+        "url": "https://github.com/thoukydides/homebridge-garagedoor-iologik/issues"
+    },
+    "main": "index.js",
+    "engines": {
+        "homebridge": ">=0.4.50",
+        "node": ">=12.0.0"
+    },
+    "dependencies": {
+        "request": "^2.88.0",
+        "request-promise-native": "^1.0.8"
+    }
+}
