@@ -1,6 +1,8 @@
 # homebridge-garagedoor-iologik
 
-[![NPM](https://nodei.co/npm/homebridge-garagedoor-iologik.png)](https://nodei.co/npm/homebridge-garagedoor-iologik/)
+[![npm](https://badgen.net/npm/v/homebridge-garagedoor-iologik)](https://www.npmjs.com/package/homebridge-garagedoor-iologik)
+[![npm](https://badgen.net/npm/dt/homebridge-garagedoor-iologik)](https://www.npmjs.com/package/homebridge-garagedoor-iologik)
+[![npm](https://badgen.net/npm/dw/homebridge-garagedoor-iologik)](https://www.npmjs.com/package/homebridge-garagedoor-iologik)
 
 Hörmann Supramatic garage door opener plugin for [Homebridge](https://github.com/nfarina/homebridge).
 
