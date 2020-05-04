@@ -1,6 +1,6 @@
 {
     "name": "homebridge-garagedoor-iologik",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Hörmann Supramatic garage door opener plugin for Homebridge",
     "license": "ISC",
     "keywords": [
