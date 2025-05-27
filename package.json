@@ -1,7 +1,8 @@
 {
     "name": "homebridge-garagedoor-iologik",
+    "displayName": "GarageDoor",
     "version": "1.0.1",
-    "description": "Hörmann Supramatic garage door opener plugin for Homebridge",
+    "description": "A Homebridge plugin that connects Hörmann Supramatic garage doors to Apple HomeKit",
     "license": "ISC",
     "keywords": [
         "Homebridge",
@@ -22,6 +23,24 @@
         "name": "Alexander Thoukydides",
         "url": "https://www.thouky.co.uk/"
     },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/thoukydides"
+        },
+        {
+            "type": "paypal",
+            "url": "https://paypal.me/thoukydides"
+        },
+        {
+            "type": "ko-fi",
+            "url": "https://ko-fi.com/thouky"
+        },
+        {
+            "type": "buymeacoffee",
+            "url": "https://www.buymeacoffee.com/thouky"
+        }
+    ],
     "repository": {
         "type": "git",
         "url": "git://github.com/thoukydides/homebridge-garagedoor-iologik.git"
@@ -31,11 +50,11 @@
     },
     "main": "index.js",
     "engines": {
-        "homebridge": ">=0.4.50",
-        "node": ">=12.0.0"
+        "node": "^22.15.0 || ^20.19.1",
+        "homebridge": "^1.9.0 || ^2.0.0-beta.0"
     },
     "dependencies": {
-        "request": "^2.88.0",
-        "request-promise-native": "^1.0.8"
+        "request": "^2.88.2",
+        "request-promise-native": "^1.0.9"
     }
 }
