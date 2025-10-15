@@ -50,8 +50,8 @@
     },
     "main": "index.js",
     "engines": {
-        "node": "^22.15.0 || ^20.19.1",
-        "homebridge": "^1.9.0 || ^2.0.0-beta.0"
+        "node": "^24.9.0 || ^22.19.0 || ^20.19.5",
+        "homebridge": "^1.11.0 || ^2.0.0-beta.0"
     },
     "dependencies": {
         "request": "^2.88.2",
