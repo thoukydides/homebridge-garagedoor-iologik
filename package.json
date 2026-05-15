@@ -1,7 +1,7 @@
 {
     "name": "homebridge-garagedoor-iologik",
     "displayName": "GarageDoor",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A Homebridge plugin that connects Hörmann Supramatic garage doors to Apple HomeKit",
     "license": "ISC",
     "keywords": [
